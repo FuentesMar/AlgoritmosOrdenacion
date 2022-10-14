@@ -16,7 +16,7 @@ public class Intercambio {
         System.out.println("Intercambio");
         System.out.println("Arreglo ordenado de forma creciente:");
         for(int i=0; i<(a.length); i++){
-            System.out.print(a[i]+" - ");
+            System.out.print("["+a[i]+"]");
         }
         System.out.println("");
     }

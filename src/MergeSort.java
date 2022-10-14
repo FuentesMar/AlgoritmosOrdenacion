@@ -12,7 +12,7 @@ public class MergeSort {
         System.out.println("MergeSort");
         System.out.println("Arreglo ordenado de forma creciente:");
         for(int i=0; i<(a.length); i++){
-            System.out.print(a[i]+" - ");
+            System.out.print("["+a[i]+"]");
         }
         System.out.println("");
     }
